@@ -1,2 +1,4 @@
-# Stack_-Compilation
-PJSIP
+# Stack_Compilation
+OpenSSL
+Opus
+Pjsip
